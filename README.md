@@ -1,15 +1,10 @@
-# Oregon-Housing-Project
-Spatial analysis of the housing data in Corvallis, Oregon
-
-Purpose of the report:
-This project report is aimed at analyzing the housing data in Corvallis, Oregon, and predicting the price of housing in the area based on the following factors: 1. Total squarefeet 2. Year built 3. Acres 4. Class 5. Bedrooms 6. Full baths 7. Month of sale
-
 Techniques used:
 1) Visualizing Geospatial Data in R
 2) ggmap
 3) Drawing polygons
 4) Choropleth maps
 5) Exploratory Data Analysis (EDA)
+
 ![image](https://user-images.githubusercontent.com/110929917/196130753-00277e29-42d4-4933-b2ba-8a5cc3e32391.png)
 ![image](https://user-images.githubusercontent.com/110929917/196130780-59d9d76a-0ee3-4056-8c96-96b086e66541.png)
 ![image](https://user-images.githubusercontent.com/110929917/196130793-c3cdf65c-04bd-4dcd-a2f3-bbc3281315b0.png)
